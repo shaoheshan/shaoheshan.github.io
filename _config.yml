@@ -44,4 +44,4 @@ exclude:
 sass:
   style: compressed
 future: true
-theme: jekyll-theme-hacker
+theme: jekyll-theme-architect
