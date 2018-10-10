@@ -17,13 +17,13 @@ title: Frank的博客
 description: > # this means to ignore newlines until "baseurl:"
   Material theme based on <a href="http://materializecss.com">Materialize.css</a> for jekyll sites
 baseurl: "/"
-url: "https://shaoheshan.github.io"
+url: "https://wolgod.github.io"
 permalink: /:year/:month/:day/:title
-repository: shaoheshan/shaoheshan.github.io
+repository: wolgod/wolgod.github.io
 paginate: 5
 
 # MatJek specific configurations
-github_profile: "https://github.com/shaoheshan"
+github_profile: "https://github.com/wolgod"
 user: "Frank"
 user_email: "664754022@qq.com"
 # contact_url: "https://goo.gl/tVljbV"
